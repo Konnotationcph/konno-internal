@@ -1,6 +1,6 @@
 # 🏗 Konnotation Internal Libraries
 
-Welcome to the **central hub** for MyCompany’s internal reusable libraries!  
+Welcome to the **central hub** for Konnotation’s internal reusable libraries!  
 This repository is **public** for discoverability, but the actual libraries are private.  
 
 Below you’ll find links to the core private repositories used across all projects:
